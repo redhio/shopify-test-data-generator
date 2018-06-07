@@ -1,4 +1,4 @@
-Shopify Test Data Generator
+Shopify Test Data Generator (Canadian English Version)
 ---------------------------
 
 *STDG* is a Python package that automates the generation of test/fake data for any Shopify store. Are you developing a new feature, service, and/or plugin, but need some data in a store to actually help you with your testing? Then
@@ -8,6 +8,8 @@ STDG is built and developed using *Python 3.4.x*
 
 STDG is dependent on the following packages: `ShopifyAPI`_, and `Faker`_
 
+*2018-06-07*
+STDG-CAN generated Canadian customer and order data using Provincial and Postal codes.
 ----
 
 **Note**: This package is currently in a sandbox state. While usable, presently it's restricted to command-line usage only. This README file *may* be out of date at any time and further configuration may be required and/or necessary. 
